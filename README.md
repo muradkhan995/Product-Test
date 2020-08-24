@@ -4,7 +4,7 @@ ProductBox Flutter Test
 Pre-requisites
 --------------
  - Android Studio or VS Code
- - iPhone is connected to laptop/macbook.
+ - iPhone is connected to macbook so that the application can be installed on the phone.
 
 Steps
 -----
