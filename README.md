@@ -25,8 +25,8 @@ Steps
  
  ## Player (Iphone) & AirPlay 
  ![](.android/02.PNG)
- ![](/android/03.PNG)
  ![](/android/04.PNG)
+ ![](/android/03.PNG)
  ![](/android/05.PNG)
  ![](/android/06.PNG)
  ## Reflector 3
