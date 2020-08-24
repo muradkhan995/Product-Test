@@ -12,4 +12,6 @@ How to run this app on the system.
 # Above steps for testing app on Apple Tv
  
  
+ ![](/command.PNG)
+ 
  
