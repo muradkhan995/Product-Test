@@ -23,13 +23,14 @@ Steps
  
  
  
- ## Airplay opption & Player (Iphone)
- ![](/android/player02.jfif)
- ![](/android/player01.jfif)
- ![](/android/airplay02.jfif)
- ![](/android/airplay02.jfif)
+ ## Player (Iphone) & AirPlay 
+ ![](.android/02.PNG)
+ ![](/android/03.PNG)
+ ![](/android/04.PNG)
+ ![](/android/05.PNG)
+ ![](/android/06.PNG)
  ## Reflector 3
- ![](/android/Reflector300.jfif)
- ![](/android/Reflector301.jfif)
+ ![](/android/07.PNG)
+ ![](/android/08.PNG)
  
  
